@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Spring 3.0 MVC Series: Hello World</title>
+<title>Spring 3.0 MVC Series: Hello World Test</title>
 </head>
 <body>
       ${message}
